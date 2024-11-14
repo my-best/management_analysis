@@ -1,0 +1,2 @@
+# management_analysis
+経営に関する分析アセットを格納するところ
